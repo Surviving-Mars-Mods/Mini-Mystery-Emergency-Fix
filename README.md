@@ -1,16 +1,10 @@
-## Template Mod
- - Template Point 1
+## Mini Mystery Emergency Fix
 
 ### Description:
 This is a super great mod!
 
 ### Options:
-This mod has lots of options!
-
-    Pick Your Poision
-        Yummy
-        Yucky
-
+This mod has no options... yet!
 
 ## Notes:
 If you have any feedback please contact me directly instead of reporting the mod. I'm always happy to take requests as well.<br>
