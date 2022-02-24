@@ -1,0 +1,8 @@
+--2do:
+    -> Do one step at a time <-
+    [Plan, Create, Test] Task 1 
+        [Plan, Create, Test] Sub-Task 1
+        
+--2do:
+    [F,F,F] Task 1
+        [F,F,F] Sub-Task 1
