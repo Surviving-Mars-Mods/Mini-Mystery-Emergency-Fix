@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Template",
 	'description', "This mod is still a work in progress. Please hop in discord to help test or provide feedback. :)   https://discord.gg/kTgYq9UjWx",
 	'image', "Images/thumbnail.png",
-	'last_changes', "https://github.com/Surviving-Mars-Mods/Survivng_Mars_Mod_Template",
+	'last_changes', "https://github.com/Surviving-Mars-Mods/Mini-Mystery-Emergency-Fix",
 	'ignore_files', {
 		"*.git/*",
 		"*.svn/*",
@@ -20,7 +20,7 @@ return PlaceObj('ModDef', {
 			'version_minor', 5,
 		}),
 	},
-	'id', "FIZZLE0",
+	'id', "FIZZLE99",
 	'steam_id', "",
 	'pops_desktop_uuid', "",
 	'pops_any_uuid', "",
