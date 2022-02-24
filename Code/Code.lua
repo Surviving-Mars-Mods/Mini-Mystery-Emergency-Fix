@@ -1,13 +1,7 @@
 -- See license.md for copyright info
-SharedModEnv["FFL_Debug"] = true
-
-local function Log(...)
-    FFL_LogMessage(CurrentModDef.title, "code", ...)
-end
-
 function MiniMysteries:StartMiniMystery(mini_mystery_name, map_id, mini_mystery)
     if type(self.previous_mini_mysteries) ~= "table" then
-        Log("ERROR", "Cannot start mini mystery!")
+        print("ERROR", "Cannot start mini mystery!")
         return
     end
 
