@@ -1,5 +1,5 @@
 return PlaceObj('ModDef', {
-	'title', "Template",
+	'title', "Mini Mystery Emergency Fix",
 	'description', "This mod is still a work in progress. Please hop in discord to help test or provide feedback. :)   https://discord.gg/kTgYq9UjWx",
 	'image', "Images/thumbnail.png",
 	'last_changes', "https://github.com/Surviving-Mars-Mods/Mini-Mystery-Emergency-Fix",
